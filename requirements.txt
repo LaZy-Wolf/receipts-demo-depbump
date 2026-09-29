@@ -1,0 +1,3 @@
+python-dateutil==2.8.2
+packaging==21.3
+receipts-demo-fmtlib @ git+https://github.com/LaZy-Wolf/receipts-demo-fmtlib@v1.0.0
